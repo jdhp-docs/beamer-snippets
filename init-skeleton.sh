@@ -10,17 +10,17 @@ TODO_AUTHOR_BEAMER_SHORT_NAME="Decock"
 
 TODO_COPYRIGHT_NOTICE="Copyright (c) 2016 ${TODO_AUTHOR_NAME} (${TODO_AUTHOR_WEB_SITE})"
 
-TODO_DOCUMENT_DATE="September 1, 2016"          # TODO
-TODO_INSTITUTE="CEA Saclay - Irfu/SAp"          # TODO
-TODO_DOCUMENT_SUBJECT="TODO"                    # TODO
-TODO_DOCUMENT_KEYWORDS="TODO,TODO"              # TODO
+TODO_DOCUMENT_DATE="October 21, 2014"
+TODO_INSTITUTE=""
+TODO_DOCUMENT_SUBJECT="beamer snippets"
+TODO_DOCUMENT_KEYWORDS="latex,beamer,snippets,demo,memento"
 
-TODO_DOCUMENT_TITLE="TODO"                      # TODO
-TODO_DOCUMENT_SUBTITLE="TODO"                   # TODO
-TODO_DOCUMENT_FILE_BASE_NAME="TODO"             # TODO
+TODO_DOCUMENT_TITLE="Beamer snippets"
+TODO_DOCUMENT_SUBTITLE=""
+TODO_DOCUMENT_FILE_BASE_NAME="beamer_snippets"
 
-TODO_DOCUMENT_GITHUB_ACCOUNT="jdhp-docs"        # TODO
-TODO_DOCUMENT_GITHUB_REPOSITORY_NAME="TODO"     # TODO
+TODO_DOCUMENT_GITHUB_ACCOUNT="jdhp-docs"
+TODO_DOCUMENT_GITHUB_REPOSITORY_NAME="beamer-snippets"
 
 TODO_DOCUMENT_GITHUB_URL="https://github.com/${TODO_DOCUMENT_GITHUB_ACCOUNT}/${TODO_DOCUMENT_GITHUB_REPOSITORY_NAME}"
 TODO_DOCUMENT_ISSUE_TRACKER_URL="https://github.com/${TODO_DOCUMENT_GITHUB_ACCOUNT}/${TODO_DOCUMENT_GITHUB_REPOSITORY_NAME}/issues"
@@ -34,7 +34,7 @@ TODO_DOCUMENT_PDF_URL="http://www.jdhp.org/dl/pdf/${TODO_DOCUMENT_FILE_BASE_NAME
 
 git remote rename origin skeleton
 git remote add origin git@github.com:${TODO_DOCUMENT_GITHUB_ACCOUNT}/${TODO_DOCUMENT_GITHUB_REPOSITORY_NAME}.git
-git push -u origin english-version              # TODO
+git push -u origin english-version
 
 git submodule init
 git submodule update

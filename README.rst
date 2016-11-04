@@ -1,12 +1,12 @@
-====
-TODO_DOCUMENT_TITLE
-====
+===============
+Beamer snippets
+===============
 
-TODO_COPYRIGHT_NOTICE
+Copyright (c) 2016 Jérémie DECOCK (www.jdhp.org)
 
-.. * Read online: TODO_DOCUMENT_HTML_URL
+.. * Read online: http://www.jdhp.org/docs/beamer_snippets/beamer_snippets.html
 
-* PDF version: TODO_DOCUMENT_PDF_URL
-* Abstract on JDHP: TODO_DOCUMENT_WEB_SITE_URL
-* Source code: TODO_DOCUMENT_GITHUB_URL
+* PDF version: http://www.jdhp.org/dl/pdf/beamer_snippets.pdf
+* Abstract on JDHP: http://www.jdhp.org/documentation_en.html#beamer_snippets
+* Source code: https://github.com/jdhp-docs/beamer-snippets
 
